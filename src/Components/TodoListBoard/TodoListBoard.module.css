@@ -1,0 +1,14 @@
+.container {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  border: black 1px;
+}
+.column {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  border: black 1px;
+}
